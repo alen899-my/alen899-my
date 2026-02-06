@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%26+JavaScript;AI+Support+Architect;Creative+Coder" alt="Typing SVG" />
 </p>
-# 💫 About Me:
+💫 About Me:
 
 **Full-Stack & AI Developer** based in Kerala, India 📍  
 I specialize in building intelligent, high-performance web and mobile applications by bridging the gap between modern Full-Stack architecture and AI.
